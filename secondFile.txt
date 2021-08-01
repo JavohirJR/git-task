@@ -1,5 +1,7 @@
 1-line | 1-line update by git_1
 2-line | 2-line update by git_1
+1-line | 1-line update by git_2
+2-line | 2-line update by git_2
 3-line |
 4-line |
 5-line |
